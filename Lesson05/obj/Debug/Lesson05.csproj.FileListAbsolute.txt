@@ -1,0 +1,7 @@
+C:\Users\DevelopPC\Desktop\Lesson05\Lesson05\bin\Debug\Lesson05.exe.config
+C:\Users\DevelopPC\Desktop\Lesson05\Lesson05\bin\Debug\Lesson05.exe
+C:\Users\DevelopPC\Desktop\Lesson05\Lesson05\bin\Debug\Lesson05.pdb
+C:\Users\DevelopPC\Desktop\Lesson05\Lesson05\obj\Debug\Lesson05.csprojAssemblyReference.cache
+C:\Users\DevelopPC\Desktop\Lesson05\Lesson05\obj\Debug\Lesson05.csproj.CoreCompileInputs.cache
+C:\Users\DevelopPC\Desktop\Lesson05\Lesson05\obj\Debug\Lesson05.exe
+C:\Users\DevelopPC\Desktop\Lesson05\Lesson05\obj\Debug\Lesson05.pdb
